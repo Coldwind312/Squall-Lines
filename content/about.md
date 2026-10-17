@@ -3,7 +3,7 @@ title: About This Site (and Me)
 ---
 ##### WHATS THIS NONSENSE? 
 
-This is by way of being a tiny personal site hosted on GitHub, which I *think* is okay? GitHub's a sort of collaborative coding and development platform where serious programmers do serious programming things. You may have encountered it before if, e.g., you know the first thing about coding, or you've used software that's hosted on it. Any open-source apps you might use have a decent chance of being hosted on GitHub.
+This is by way of being a tiny personal site hosted on GitHub, which I *think* is okay...? GitHub's a sort of collaborative coding and development platform where serious programmers do serious programming things. You may have encountered it before if, e.g., you know the first thing about coding, or you've used software that's hosted on it. Any open-source apps you might use have a decent chance of being hosted on GitHub.
 
 Anyway you can, and many people do, use GitHub to host websites. Usually small, relatively low-traffic ones, which fits my particular bill just nicely.
 

@@ -3,7 +3,7 @@ title: The Games Room
 ---
 Most of this site is going to be a continual Work In Progress. And this is only really because if I don't get something uploaded, I'm just going to sit tweaking it and tweaking it until the heat death of the universe.
 
-For now, this is just a load of games I like. Starting with the ones I'm probably most focused on right now, but in time I'm sure I'll cover them all.
+So for now, this page is just a list of games I like. Starting with the ones I'm probably most focused on right now, but in time I'm sure I'll cover them all. And gradually gradually, I'll add detail, and maybe even sub-pages with some more info on about all of them.
 
 *ALL of them*.
 

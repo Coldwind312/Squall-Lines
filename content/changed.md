@@ -11,7 +11,7 @@ Hello there, my *terribly* dear reader.
 
 Please do come in and make yourself *quite* at home.
 
-Excuse the clutter: I've recently had a bit of a shift-around.
+Excuse the clutter. I've recently had a bit of a shift-around.
 
 If you've visited Squall Lines before you may have noticed that things are different. It looks different. Things aren't where once they were. Primarily this is because my blog, such as it ever was, has for many years been hosted on WordPress.com, a good solid well-established bloggery platform.
 

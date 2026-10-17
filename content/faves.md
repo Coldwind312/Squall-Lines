@@ -12,7 +12,7 @@ With that in mind, though, I would like to offer you a selection of
 
 by which you might better assess just how admirable/reprehensible/unremarkable I am, and maybe find a thing or two you agree on, disagree on, or didn’t know about and now think you might give a try.
 
-Initially this will start out as basic lists of my Top Five Examples, without too much commentary. But in time I hope to add a bit of detail and reasoning, and it’s more than likely that the lists might expand past five in some cases (I struggle to make my mind up about things, for the most part).
+Initially this will start out as basic lists of my Top Five Examples, without too much commentary. But in time, I hope to add a bit of detail and reasoning, and it’s more than likely that the lists might expand past five in some cases (I struggle to make my mind up about things, for the most part).
 
 ### FAVOURITE FILMS
 

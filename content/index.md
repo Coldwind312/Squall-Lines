@@ -11,7 +11,7 @@ Welcome to the all-new, *fun-sized* Squall Lines.
 
 | [[Squall-Lines/quartz/content/about\|About]] | [[links\|Links]] |
 | :--------------: | :--------------: |
-### STUFF I'M INTAE AS OF THE NOW
+### STUFF I'M INTAE, AS OF THE NOW
 
 Currently Reading:  *Jennifer Government*, by Max Barry
 Currently Watching:  *The Rookie*
