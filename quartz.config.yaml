@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: squall-lines.net
+  baseUrl: Coldwind312.github.io/Squall-Lines
   ignorePatterns:
     - private
     - templates
