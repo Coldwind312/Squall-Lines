@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Squall Lines
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -21,13 +21,13 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#ead1a4"
+        light: "#fff9d3"
         lightgray: "#e5e5e5"
         gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
+        darkgray: "#2a221a"
+        dark: "#2c1005"
+        secondary: "#3a2f24"
+        tertiary: "#0f2f9e"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#fff23688"
       darkMode:
