@@ -22,6 +22,9 @@ configuration:
     colors:
       lightMode:
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 60efbfe4d93cd082d8ff736d95d5b88b098a6eae
         light: "#FBF6EA"
         lightgray: "#E6DCC3"
         gray: "#A8B2A6"
@@ -31,6 +34,7 @@ configuration:
         tertiary: "#2F7FB8"
         highlight: rgba(143, 207, 207, 0.25)
         textHighlight: "#F7E08899"
+<<<<<<< HEAD
 =======
         light: "#fff9d3"
         lightgray: "#e5e5e5"
@@ -42,6 +46,8 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#fff23688"
 >>>>>>> d00febfe3e4278828a88923d70be74ccf4b5aa4e
+=======
+>>>>>>> 60efbfe4d93cd082d8ff736d95d5b88b098a6eae
       darkMode:
         light: "#10192B"
         lightgray: "#25324A"
