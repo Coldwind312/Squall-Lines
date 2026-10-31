@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: coldwind312.github.io/Squall-Lines
+  baseUrl: squall-lines.net
   ignorePatterns:
     - private
     - templates
@@ -21,25 +21,25 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#fff9d3"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#2a221a"
-        dark: "#2c1005"
-        secondary: "#3a2f24"
-        tertiary: "#0f2f9e"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#FBF6EA"
+        lightgray: "#E6DCC3"
+        gray: "#A8B2A6"
+        darkgray: "#3E4C58"
+        dark: "#1B3A4B"
+        secondary: "#0E7C86"
+        tertiary: "#2F7FB8"
+        highlight: rgba(143, 207, 207, 0.25)
+        textHighlight: "#F7E08899"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#10192B"
+        lightgray: "#25324A"
+        gray: "#4A5A73"
+        darkgray: "#CFD3DB"
+        dark: "#F2E6CF"
+        secondary: "#7FBF7A"
+        tertiary: "#F29A3D"
+        highlight: rgba(127, 191, 122, 0.15)
+        textHighlight: "#E8873A55"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
