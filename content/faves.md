@@ -61,8 +61,8 @@ I’ve currently got 450 songs on my Liked list on Spotify, so distilling them d
 1. *El Fusilado*; The Longest Johns (after Chumbawamba). The catchiest song there’s ever been about an execution (failed) by firing squad.
 2. *Amaze Amaze Amaze (Life on Erid)*; Daniel Pemberton. From the soundtrack to the magnificent *Project Hail Mary*. A track that puts a spring in your step, even if you’re not in microgravity.
 3. *Disease*; Lady Gaga
-4. *Taranta*; Ludovico Einaudi. Einaudi is one of those composers whose work you know when you hear it even if you don’t know the exact piece. Taranta is very different from his usual (equally excellent) style. Here he puts reflective aside and gets together with a bunch of other musicians—including an accordionist wait stay with me—aside and sets out to kick some ass.
-5. *My Sails Are Set*; Sonya Belousova, Giona Ostinelli. From the TV show One Piece, which is something about anime pirates but in live action? I don’t really know. But this track is beautiful: ‘determined despite everything’ kind of stuff.
+4. *Taranta*; Ludovico Einaudi. Einaudi is one of those composers whose work you know when you hear it even if you don’t know the exact piece. Taranta is very different from his usual (equally excellent) style. Here he puts reflective aside and gets together with a bunch of other musicians—including an accordionist wait stay with me—and sets out to kick some ass.
+5. *My Sails Are Set*; Sonya Belousova, Giona Ostinelli. From the TV show *One Piece*, which is something about anime pirates but in live action? I don’t really know. But this track is beautiful: ‘determined despite everything’ kind of stuff.
 
 ### PRIZED PODCASTS[^3]
 
@@ -70,7 +70,7 @@ I’ve currently got 450 songs on my Liked list on Spotify, so distilling them d
 2. *Strange and Unexplained with Daisy Eagan*: Writer and actor Daisy looks into, well, strange and unexplained happenings. Does paranormal, disappearances and true crime.
 3. *Ruined with Alison Leiby and Halle Kiefer*: Alison doesn't like horror films. Halle loves them. In this show Halle takes Alison and the listener through a detailed summary of movies while Alison offers commentary and tries to guess Who Will Survive.
 4. *Unexplained*: Richard MacLean Smith explores events 
-5. *Respect the Dead*: Tagline: 'The podcast where we don't'. Caelan Conrad and Amanda 'Hoots' Hootman examine the lives and of the thankfully departed, and the ways in which their time on Earth made things worse for everybody else.
+5. *Respect the Dead*: Tagline: 'The podcast where we don't'. Caelan Conrad and Amanda 'Hoots' Hootman examine the lives and wrongdoings of the thankfully departed, and the ways in which their time on Earth made things worse for everybody else.
 
 ---
 

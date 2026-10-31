@@ -9,12 +9,12 @@ So for now, this page is just a list of games I like. Starting with the ones I'm
 
 So far there's:
 
-| Cyberpunk 2077             | Flight Simulator 2024 | Dyson Sphere Program  | Potion Craft               |
-| -------------------------- | --------------------- | --------------------- | -------------------------- |
-|                            |                       |                       |                            |
-| **Starfield**              | **Sunless Sea**       | **Farthest Frontier** | **Banished**               |
-|                            |                       |                       |                            |
-| **Car Mechanic Simulator** | **Elite Dangerous**   | **Evil Genius 2**     | **Hardspace: Shipbreaker** |
-|                            |                       |                       |                            |
+| Cyberpunk 2077                                                                                                                        | [[flightsim24\|Flight Simulator 2024]]                                                                                                 | Dyson Sphere Program  | Potion Craft               |
+| ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | -------------------------- |
+| Aspiring Night City street mercenary 'V' takes part in a heist, targeting a valuable piece of tech. Things go... less than optimally. | General aviation flight sim. Fly little prop planes or heavy airliners; helicopters, gliders... No ornithopter in this version, sadly. |                       |                            |
+| **Starfield**                                                                                                                         | **Sunless Sea**                                                                                                                        | **Farthest Frontier** | **Banished**               |
+|                                                                                                                                       |                                                                                                                                        |                       |                            |
+| **Car Mechanic Simulator**                                                                                                            | **Elite Dangerous**                                                                                                                    | **Evil Genius 2**     | **Hardspace: Shipbreaker** |
+|                                                                                                                                       |                                                                                                                                        |                       |                            |
 
 ---
