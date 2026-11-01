@@ -12,9 +12,11 @@ Don't say I didn't warn you.
 ---
 ##### Longer Posts
 
-[[halloween|The Hallowe'en Argument]]
+...will go here. When I import or write some.
 
 ---
+
+##### Random Lines
 
 “I'm having potato issues here.”
 
