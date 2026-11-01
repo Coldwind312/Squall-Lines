@@ -1,0 +1,20 @@
+---
+title: The Games Room
+---
+Most of this site is going to be a continual Work In Progress. And this is only really because if I don't get something uploaded, I'm just going to sit tweaking it and tweaking it until the heat death of the universe.
+
+So for now, this page is just a list of games I like. Starting with the ones I'm probably most focused on right now, but in time I'm sure I'll cover them all. And gradually gradually, I'll add detail, and maybe even sub-pages with some more info on about all of them.
+
+*ALL of them*.
+
+So far there's:
+
+| Cyberpunk 2077                                                                                                                        | [[flightsim24\|Flight Simulator 2024]]                                                                                                 | Dyson Sphere Program  | Potion Craft               |
+| ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | -------------------------- |
+| Aspiring Night City street mercenary 'V' takes part in a heist, targeting a valuable piece of tech. Things go... less than optimally. | General aviation flight sim. Fly little prop planes or heavy airliners; helicopters, gliders... No ornithopter in this version, sadly. |                       |                            |
+| **Starfield**                                                                                                                         | **Sunless Sea**                                                                                                                        | **Farthest Frontier** | **Banished**               |
+|                                                                                                                                       |                                                                                                                                        |                       |                            |
+| **Car Mechanic Simulator**                                                                                                            | **Elite Dangerous**                                                                                                                    | **Evil Genius 2**     | **Hardspace: Shipbreaker** |
+|                                                                                                                                       |                                                                                                                                        |                       |                            |
+
+---
