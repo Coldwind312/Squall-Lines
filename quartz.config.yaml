@@ -16,20 +16,20 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Charis SIL
+      body: Charis SIL
+      code: Share Tech Mono
     colors:
       lightMode:
-        light: "#FBF6EA"
-        lightgray: "#E6DCC3"
-        gray: "#A8B2A6"
-        darkgray: "#3E4C58"
-        dark: "#1B3A4B"
-        secondary: "#0E7C86"
-        tertiary: "#2F7FB8"
-        highlight: rgba(143, 207, 207, 0.25)
-        textHighlight: "#F7E08899"
+        light: "#fff1b2"
+        lightgray: "#c8a480"
+        gray: "#95694e"
+        darkgray: "#33170c"
+        dark: "#33170c"
+        secondary: "#0f1f86"
+        tertiary: "#125fa6"
+        highlight: rgba(122, 177, 176, 0.25)
+        textHighlight: "#fff1b2"
       darkMode:
         light: "#10192B"
         lightgray: "#25324A"
@@ -109,9 +109,9 @@ plugins:
     enabled: false
     order: 92
   - source: "@quartz-community/quartz-fonts"
-    enabled: true
+    enabled: false
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
       theme: default
       mode: both
