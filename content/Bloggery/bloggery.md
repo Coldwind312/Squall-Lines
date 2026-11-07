@@ -7,20 +7,15 @@ Don't say I didn't warn you.
 
 ---
 
-#### [[daypage|Day Page]]
+[[daypage|Day Page]]
 
 ---
-#### Longer Posts
+##### Longer Posts
 
-...will go here. When[^1] I import or write some.
+[[halloween|The Hallowe'en Argument]]
 
 ---
-#### Random Lines
 
 “I'm having potato issues here.”
 
 “Fucking hell everything keeps turning into cabbages.”
-
----
-
-[^1]: Yes. When. Definitely ‘when’.

@@ -46,6 +46,17 @@ There's the horrors, obviously, but we're trying to keep those to a minimum here
 - [Behind The Surname](https://surnames.behindthename.com/) : companion site to the above, offering the same details about surnames.
 
 ---
+### **Charities and Causes**
+
+In case you woke up this morning with a burning desire to do some good, these are a few places you could point it.
+
+[The Howard League for Penal Reform](https://howardleague.org/) : UK organisation working to address the overuse and misuse of incarceration and the inadequacy of prison facilities.
+
+[Royal National Lifeboat Institution (RNLI)](https://rnli.org/) : an organisation of brave and selfless people who operate around the UK's coasts to rescue those in danger at sea. Heroes all, and I don't use that word lightly. Recently intensively targeted by the far right because of how they persistly rescue people in danger at sea, including people the far right don't want to see alive.
+
+Check out their site. Consider Joing as a member. Save lives. Irritate fascists. What's not to love?
+
+--- 
 ### **Politics and Media**
 
 Although this site is not for the most part intended to focus too much on The Horrors, sometimes it's useful to know which is the most current and pressing of them.

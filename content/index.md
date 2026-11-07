@@ -22,7 +22,7 @@ Most recently seen (music): [The Idrîsî Ensemble, Sheffield](https://www.idris
 
 If you'd like to dig into more of my recommendations—and there's absolutely no good reason why you should, but here it is—feel free to partake of my
 
-[[faves|Feast of Faves]]
+[[Directory of Distractions/directory|Directory of Distractions]]
 
 Oh yes indeedy. There are books! Plays! Fillums and Telly! Musical Tunes!
 
